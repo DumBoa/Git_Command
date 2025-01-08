@@ -1,5 +1,6 @@
 # Tóm tắt lệnh khởi tạo toàn bộ code lên github
-
+# chọn thư mục dự án -> git bash -> |
+                                    V
 git init
 git remote add origin <URL>
 git add .
